@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is pr-template?
-PR description generator by change type
+Pr Template
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
